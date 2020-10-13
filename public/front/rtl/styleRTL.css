@@ -1,0 +1,280 @@
+/* 69 of 975 CSS properties converted by rtl.daskhat.ir
+ These properties should be override originals.
+ just load rtl css file after original css file.*/
+
+/* body {direction:rtl;} */
+
+#preloader{
+    right: 0;
+}
+.navbar-nav.ml-auto{
+    margin-left: auto!important;
+
+}
+.medilife-load{
+    border-right-color: #006cff;
+    border-left-color: #006cff;
+    right: calc(50% - 25px);
+}
+
+.ml-15{
+    margin-right: 15px;
+}
+
+.ml-30{
+    margin-right: 30px;
+}
+
+.mr-15{
+    margin-left: 15px;
+}
+
+.mr-30{
+    margin-left: 30px;
+}
+
+#scrollUp{
+    left: 60px;
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px){
+    #scrollUp{
+        left: 30px;
+    }
+
+    .hero-area .owl-prev,   .hero-area .owl-next{
+        right: 30px;
+    }
+
+    .hero-area .owl-next{
+        left: 30px;
+    }
+
+    .footer-area{
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+}
+
+@media only screen and (max-width: 767px){
+    #scrollUp{
+        left: 30px;
+    }
+
+    .hero-area .owl-prev,   .hero-area .owl-next{
+        right: 15px;
+    }
+
+    .hero-area .owl-next{
+        left: 15px;
+    }
+
+    .footer-area{
+        padding-right: 0;
+        padding-left: 0;
+    }
+
+    .medilife-tabs-content .medilife-tab-content .medilife-tab-text{
+        margin-left: 0;
+    }
+
+    .single_comment_area .comment-wrapper .comment-author{
+        margin-left: 10px;
+    }
+
+    .single_comment_area .children{
+        padding-right: 30px;
+    }
+
+}
+
+.section-padding-50-0{
+    padding: 50px 0 0 0 ;
+}
+
+.section-padding-100-20{
+    padding: 100px 0 20px 0 ;
+}
+
+.medilife-btn{
+    padding: 0 30px 0 55px ;
+}
+
+.medilife-btn span{
+    left: -1px;
+}
+
+.medilife-btn.btn-3 span{
+    left: -2px;
+}
+
+.medilife-btn.btn-4 span{
+    left: -2px;
+}
+
+.bg-overlay::after{
+    right: 0;
+}
+
+.bg-overlay-black::after{
+    right: 0;
+}
+
+.bg-overlay-white::after{
+    right: 0;
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px){
+    .footer-area{
+        padding-right: 30px;
+        padding-left: 30px;
+    }
+
+}
+
+.hero-area .owl-prev, .hero-area .owl-next{
+    right: 70px;
+    left: auto;}
+
+.hero-area .owl-next{
+    right: auto;
+    left: 70px;
+}
+
+.hero-area .owl-dots{
+    right: 50%;
+}
+
+.hero-area .owl-dot{
+    margin-left: 8px;
+}
+
+.nice-select .list{
+    right: 0 !important;
+    left: 0 !important;
+}
+
+.single-service-area .service-icon{
+    margin-left: 30px;
+}
+
+.single-gallery-item::after{
+    right: 0;
+}
+
+.single-gallery-item .view-more-btn{
+    right: 40px;
+}
+
+.footer-area{
+    padding-right: 45px;
+    padding-left: 45px;
+}
+
+.footer-widget-area .footer-social-info a{
+    margin-left: 15px;
+}
+
+.footer-widget-area .widget-single-blog-post .widget-post-thumbnail{
+    margin-left: 30px;
+}
+
+.footer-widget-area .footer-newsletter-area button{
+    left: 0;
+}
+
+.breadcumb-area::after{
+    right: 0;
+}
+
+.video-box .play-btn{
+    right: 50%;
+}
+
+.medilife-tabs-content .medilife-tab-content .medilife-tab-text{
+    margin-left: 50px;
+}
+
+.singleServiceArea{
+    float: right;
+}
+
+.singleServiceArea .singleServiceIcon{
+    margin-left: 20px;
+}
+
+.medilife-cta-area .cta-content i{
+    margin-left: 30px;
+}
+
+.medilife-cta-area .cta-content h2{
+    margin-left: 30px;
+}
+
+.single-blog-area .blog-post-thumbnail .post-date a{
+    left: auto;
+    right: 20px !important;
+}
+
+.single-blog-area .post-content .post-author{
+    right: 20px;
+}
+
+.search-widget-area input[type=submit]{
+    left: 0;
+}
+
+.pagination .page-item:first-child .page-link{
+    margin-right: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+.pagination .page-item:last-child .page-link{
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.pagination .page-link{
+    margin-right: 3px;
+}
+
+.single_comment_area .comment-wrapper .comment-author{
+    margin-left: 30px;
+}
+
+.single_comment_area .children{
+    padding-right: 90px;
+}
+
+.contact-social-area a{
+    margin-left: 15px;
+}
+
+.single-accordion h6 a{
+    padding: 20px 20px 20px 60px ;
+}
+
+.single-accordion h6 a span{
+    left: 20px;
+}
+
+.copywrite-text{
+    text-align: right;
+}
+
+
+/* rtl style */
+.header-area,
+.medilife-book-an-appoinment-area,
+.medica-about-us-area,
+.medilife-cool-facts-area,
+.medilife-features-area,
+.medilife-blog-area,
+.medilife-cta-area,
+footer{
+    direction: rtl;
+}
+
+
